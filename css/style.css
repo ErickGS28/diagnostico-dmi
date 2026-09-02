@@ -37,4 +37,20 @@ div {
         align-items: center !important;
         height: auto !important;
     }
+    div {
+        margin-bottom: 20px;
+    }
+    .info-container {
+        text-align: center;
+    }
+    .img-container {
+        width: 100px;
+        height: 100px;
+    } 
+    .img-container i {
+        font-size: 50px;
+    }
+    .info-container h3 {
+        font-size: 16px;
+    }
 }
